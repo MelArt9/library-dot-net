@@ -1,0 +1,15 @@
+C:\Users\arkab\Desktop\Частично упорядоченный список\PartiallyOrderedList\PartiallyOrderedList\bin\Debug\net7.0\PartiallyOrderedList.exe
+C:\Users\arkab\Desktop\Частично упорядоченный список\PartiallyOrderedList\PartiallyOrderedList\bin\Debug\net7.0\PartiallyOrderedList.deps.json
+C:\Users\arkab\Desktop\Частично упорядоченный список\PartiallyOrderedList\PartiallyOrderedList\bin\Debug\net7.0\PartiallyOrderedList.runtimeconfig.json
+C:\Users\arkab\Desktop\Частично упорядоченный список\PartiallyOrderedList\PartiallyOrderedList\bin\Debug\net7.0\PartiallyOrderedList.dll
+C:\Users\arkab\Desktop\Частично упорядоченный список\PartiallyOrderedList\PartiallyOrderedList\bin\Debug\net7.0\PartiallyOrderedList.pdb
+C:\Users\arkab\Desktop\Частично упорядоченный список\PartiallyOrderedList\PartiallyOrderedList\obj\Debug\net7.0\PartiallyOrderedList.csproj.AssemblyReference.cache
+C:\Users\arkab\Desktop\Частично упорядоченный список\PartiallyOrderedList\PartiallyOrderedList\obj\Debug\net7.0\PartiallyOrderedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkab\Desktop\Частично упорядоченный список\PartiallyOrderedList\PartiallyOrderedList\obj\Debug\net7.0\PartiallyOrderedList.AssemblyInfoInputs.cache
+C:\Users\arkab\Desktop\Частично упорядоченный список\PartiallyOrderedList\PartiallyOrderedList\obj\Debug\net7.0\PartiallyOrderedList.AssemblyInfo.cs
+C:\Users\arkab\Desktop\Частично упорядоченный список\PartiallyOrderedList\PartiallyOrderedList\obj\Debug\net7.0\PartiallyOrderedList.csproj.CoreCompileInputs.cache
+C:\Users\arkab\Desktop\Частично упорядоченный список\PartiallyOrderedList\PartiallyOrderedList\obj\Debug\net7.0\PartiallyOrderedList.dll
+C:\Users\arkab\Desktop\Частично упорядоченный список\PartiallyOrderedList\PartiallyOrderedList\obj\Debug\net7.0\refint\PartiallyOrderedList.dll
+C:\Users\arkab\Desktop\Частично упорядоченный список\PartiallyOrderedList\PartiallyOrderedList\obj\Debug\net7.0\PartiallyOrderedList.pdb
+C:\Users\arkab\Desktop\Частично упорядоченный список\PartiallyOrderedList\PartiallyOrderedList\obj\Debug\net7.0\PartiallyOrderedList.genruntimeconfig.cache
+C:\Users\arkab\Desktop\Частично упорядоченный список\PartiallyOrderedList\PartiallyOrderedList\obj\Debug\net7.0\ref\PartiallyOrderedList.dll
